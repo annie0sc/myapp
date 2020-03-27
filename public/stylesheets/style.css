@@ -3,6 +3,10 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+h1{
+  color: palevioletred;
+  font: arial;
+}
 a {
-  color: #00B7FF;
+  color: rgb(53, 138, 172);
 }
